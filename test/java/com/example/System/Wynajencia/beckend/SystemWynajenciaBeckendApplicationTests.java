@@ -9,6 +9,13 @@ class SystemWynajenciaBeckendApplicationTests {
 	@Test
 	void contextLoads() {
 
+		System.out.println(new Date());
+		System.out.println(new Date());
+		System.out.println(new Date());
+		System.out.println(new Date());
+		System.out.println(new Date());
+		
+
 
 		
 	}
