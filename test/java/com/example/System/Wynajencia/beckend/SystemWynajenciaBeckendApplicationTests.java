@@ -8,6 +8,9 @@ class SystemWynajenciaBeckendApplicationTests {
 
 	@Test
 	void contextLoads() {
+
+
+		
 	}
 
 }
